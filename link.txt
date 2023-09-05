@@ -1,2 +1,2 @@
-Repo-Link: 
-Site-Link: 
+Repo-Link: https://github.com/Saeedullah15/gamer-zone
+Site-Link: https://saeedullah15.github.io/gamer-zone/
