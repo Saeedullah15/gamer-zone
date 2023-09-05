@@ -182,7 +182,7 @@
 }
 
 .play-instant-big-img {
-    width: 70%;
+    width: 80%;
     float: right;
 }
 
@@ -374,10 +374,10 @@ footer p {
         margin-top: 30px;
     }
 
-    .icon,
+    /* .icon,
     .watch-now {
         display: none;
-    }
+    } */
 
     /* play instant section styles */
     .play-instant-container {
