@@ -151,7 +151,7 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     padding: 0px 200px;
-    margin-bottom: 160px;
+    margin-bottom: 300px;
     align-items: center;
     position: relative;
 
@@ -195,6 +195,43 @@
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+}
+
+/* categories section styles */
+.categories-container {
+    padding: 0px 200px;
+    margin-bottom: 200px;
+}
+
+.categories-container p {
+    color: #0B0223;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.row-1 {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    justify-items: center;
+    margin-bottom: 50px;
+}
+
+.row-2 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    justify-items: center;
+}
+
+.row-1-games {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 30px;
+}
+
+.row-1-games img {
+    width: 20%;
+    margin-right: 10px;
 }
 
 /* responsive styles */
